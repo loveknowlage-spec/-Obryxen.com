@@ -1,0 +1,8 @@
+{
+  "name": "Obryxen",
+  "description": "An ultra-premium, AI-enhanced social media platform with glassmorphic design and high-performance animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
